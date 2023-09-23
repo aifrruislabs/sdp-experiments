@@ -9,3 +9,5 @@
 $title = 'My new Todo item';
 $description = 'This is the description of my new Todo item.';
 $todoId = createTodo($conn, $title, $description);
+
+print ("Created New Todo");

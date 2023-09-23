@@ -9,3 +9,5 @@ $todoId = 1;
 
 // Delete a Todo item
 deleteTodo($conn, $todoId);
+
+print ("Deleted Todo");

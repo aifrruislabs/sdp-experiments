@@ -15,3 +15,5 @@ $todoId = 1;
 $title = 'My new Todo item';
 $description = 'This is the description of my new Todo item.';
 updateTodo($conn, $todoId, $title, $description);
+
+print ("Update Todo");

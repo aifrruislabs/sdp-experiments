@@ -7,3 +7,5 @@
 
 // Read all Todo items
 $todos = readTodos($conn);
+
+print ("Read Todo");
